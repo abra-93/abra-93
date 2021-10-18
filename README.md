@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aleksey
 
-<a href="url"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" align="left" height="200" width="600" ></a>
+<a href="url"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" align="right" height="300" width="600" ></a>
 <!-- ![](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif) -->
 
 **abra-93/abra-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
