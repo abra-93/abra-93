@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, my name is Aleksey
+![](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)
 
 **abra-93/abra-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
